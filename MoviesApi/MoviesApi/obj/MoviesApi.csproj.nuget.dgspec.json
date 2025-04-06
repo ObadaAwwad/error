@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "F:\\VS\\Project\\MoviesApi\\MoviesApi\\MoviesApi.csproj": {}
+    "C:\\Users\\Abdullmenem Fayez\\Desktop\\New folder\\error\\MoviesApi\\MoviesApi\\MoviesApi.csproj": {}
   },
   "projects": {
-    "F:\\VS\\Project\\MoviesApi\\MoviesApi\\MoviesApi.csproj": {
+    "C:\\Users\\Abdullmenem Fayez\\Desktop\\New folder\\error\\MoviesApi\\MoviesApi\\MoviesApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\VS\\Project\\MoviesApi\\MoviesApi\\MoviesApi.csproj",
+        "projectUniqueName": "C:\\Users\\Abdullmenem Fayez\\Desktop\\New folder\\error\\MoviesApi\\MoviesApi\\MoviesApi.csproj",
         "projectName": "MoviesApi",
-        "projectPath": "F:\\VS\\Project\\MoviesApi\\MoviesApi\\MoviesApi.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "F:\\VS\\Project\\MoviesApi\\MoviesApi\\obj\\",
+        "projectPath": "C:\\Users\\Abdullmenem Fayez\\Desktop\\New folder\\error\\MoviesApi\\MoviesApi\\MoviesApi.csproj",
+        "packagesPath": "C:\\Users\\Abdullmenem Fayez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Abdullmenem Fayez\\Desktop\\New folder\\error\\MoviesApi\\MoviesApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "F:\\VS\\Shared\\NuGetPackages"
+          "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Abdullmenem Fayez\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -52,11 +52,11 @@
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[9.0.1, )"
             },
-            "Swashbuckle.AspNetCore.Swagger": {
+            "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[8.1.0, )"
+              "version": "[7.2.0, )"
             }
           },
           "imports": [
@@ -78,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
